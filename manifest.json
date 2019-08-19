@@ -1,0 +1,30 @@
+{
+  "name": "INOL-Log",
+  "short_name": "INOL-Log",
+  "icons": [{
+    "src": "/images/inol-128.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  }, {
+    "src": "/images/inol-144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  },{
+    "src": "/images/inol-240.png",
+    "sizes": "240x240",
+    "type": "image/png"
+  },{
+    "src": "/images/inol-480.png",
+    "sizes": "480x480",
+    "type": "image/png"
+  },{
+    "src": "/images/inol-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#3E4EB8",
+  "theme_color": "#2F3BA2"
+}
